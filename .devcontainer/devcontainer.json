@@ -1,0 +1,13 @@
+{
+  "name": "db2openapi - MySQL devcontainer",
+  "dockerComposeFile": ["docker-compose.yml"],
+  "service": "devcontainer",
+  "workspaceFolder": "/workspace",
+  "remoteUser": "vscode",
+  "extensions": [
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers"
+  ],
+  "forwardPorts": [3306],
+  "postCreateCommand": "echo 'Devcontainer ready. Follow docs/devcontainer-mysql.md to import DDL.'"
+}
