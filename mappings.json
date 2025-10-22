@@ -1,0 +1,20 @@
+{
+  "components": {
+    "Users": {
+      "user_uuid": { "format": "uuid" },
+      "email": { "format": "email" },
+      "onboarding_complete": { "type": "boolean" },
+      "auth_mode": { "type": "integer" }
+    },
+    "Merchantinformation": {
+      "merchant_uuid": { "format": "uuid" },
+      "email_id": { "format": "email" },
+      "is_enable": { "type": "boolean" },
+      "isVerified": { "type": "boolean" }
+    },
+    "Useraddresses": {
+      "isPrimary": { "type": "boolean" },
+      "isEnabled": { "type": "boolean" }
+    }
+  }
+}
