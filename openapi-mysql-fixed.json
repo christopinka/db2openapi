@@ -33083,7 +33083,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 1,
                         "user_uuid": "00000000-0000-0000-0000-000000000000",
                         "info_id": 1,
                         "info_id_uuid": "00000000-0000-0000-0000-000000000000",
@@ -33199,7 +33199,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 1,
                       "user_uuid": "00000000-0000-0000-0000-000000000000",
                       "info_id": 1,
                       "info_id_uuid": "00000000-0000-0000-0000-000000000000",
