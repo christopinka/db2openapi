@@ -119,12 +119,6 @@
       },
       "email_id": {
         "format": "email"
-      },
-      "is_enable": {
-        "type": "boolean"
-      },
-      "isVerified": {
-        "type": "boolean"
       }
     },
     "Merchantintegrationtoken": {
@@ -242,12 +236,6 @@
     "Useraddresses": {
       "deleted_at": {
         "type": "boolean"
-      },
-      "isPrimary": {
-        "type": "boolean"
-      },
-      "isEnabled": {
-        "type": "boolean"
       }
     },
     "Userinformation": {
@@ -314,12 +302,6 @@
       },
       "iphone_social_email": {
         "format": "email"
-      },
-      "onboarding_complete": {
-        "type": "boolean"
-      },
-      "auth_mode": {
-        "type": "integer"
       }
     }
   }

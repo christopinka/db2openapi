@@ -39,7 +39,7 @@
                         "page": "Lorem ipsum dolor sit amet",
                         "date": "2025-10-22T19:11:23.341Z",
                         "show_topImage": "Lorem ipsum dolor sit amet",
-                        "uuid": "Lorem ipsum dolor sit amet",
+                        "uuid": "00000000-0000-0000-0000-000000000000",
                         "created_at": "2025-10-22T19:11:23.342Z",
                         "updated_at": "2025-10-22T19:11:23.342Z"
                       }
@@ -145,7 +145,7 @@
                       "page": "Lorem ipsum dolor sit amet",
                       "date": "2025-10-22T19:11:23.341Z",
                       "show_topImage": "Lorem ipsum dolor sit amet",
-                      "uuid": "Lorem ipsum dolor sit amet",
+                      "uuid": "00000000-0000-0000-0000-000000000000",
                       "created_at": "2025-10-22T19:11:23.342Z",
                       "updated_at": "2025-10-22T19:11:23.342Z"
                     }
@@ -384,7 +384,7 @@
                       {
                         "id": 1,
                         "type": "Lorem ipsum dolor sit amet",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.343Z",
                         "updated_at": "2025-10-22T19:11:23.343Z"
                       }
@@ -476,7 +476,7 @@
                     "value": {
                       "id": 1,
                       "type": "Lorem ipsum dolor sit amet",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.343Z",
                       "updated_at": "2025-10-22T19:11:23.343Z"
                     }
@@ -713,7 +713,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "friend_id": 1,
                         "merchant_id": 1,
@@ -811,7 +811,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "friend_id": 1,
                       "merchant_id": 1,
@@ -1056,7 +1056,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "transaction_id": 1,
                         "event": "Lorem ipsum dolor sit amet",
                         "message": "Lorem ipsum dolor sit amet",
@@ -1149,7 +1149,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "transaction_id": 1,
                       "event": "Lorem ipsum dolor sit amet",
                       "message": "Lorem ipsum dolor sit amet",
@@ -1389,7 +1389,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "sub_title": "Lorem ipsum dolor sit amet",
                         "merchant_id": "Lorem ipsum dolor sit amet",
@@ -1487,7 +1487,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "sub_title": "Lorem ipsum dolor sit amet",
                       "merchant_id": "Lorem ipsum dolor sit amet",
@@ -1736,7 +1736,7 @@
                         "merchant_id": 1,
                         "api_hit_counts": 1,
                         "subscription_last_date": "2025-10-22T19:11:23.350Z",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.350Z",
                         "updated_at": "2025-10-22T19:11:23.350Z"
                       }
@@ -1830,7 +1830,7 @@
                       "merchant_id": 1,
                       "api_hit_counts": 1,
                       "subscription_last_date": "2025-10-22T19:11:23.350Z",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.350Z",
                       "updated_at": "2025-10-22T19:11:23.350Z"
                     }
@@ -2067,7 +2067,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_id": 1,
                         "user_id": 1,
                         "hit_created_date_time": "2025-10-22T19:11:23.351Z",
@@ -2162,7 +2162,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_id": 1,
                       "user_id": 1,
                       "hit_created_date_time": "2025-10-22T19:11:23.351Z",
@@ -2404,7 +2404,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_id": 1,
                         "user_id": 1,
                         "recipient_id": 1,
@@ -2500,7 +2500,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_id": 1,
                       "user_id": 1,
                       "recipient_id": 1,
@@ -2743,7 +2743,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "media_id": 1,
                         "type": 1,
                         "created_at": "2025-10-22T19:11:23.354Z",
@@ -2835,7 +2835,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "media_id": 1,
                       "type": 1,
                       "created_at": "2025-10-22T19:11:23.354Z",
@@ -3074,7 +3074,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "coupon_id": 1,
                         "user_id": 1,
                         "created_at": "2025-10-22T19:11:23.355Z",
@@ -3166,7 +3166,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "coupon_id": 1,
                       "user_id": 1,
                       "created_at": "2025-10-22T19:11:23.355Z",
@@ -3407,7 +3407,7 @@
                       {
                         "id": 1,
                         "mobile_number": 1,
-                        "status": "Lorem ipsum dolor sit amet",
+                        "status": false,
                         "validity": "2025-10-22T19:11:23.356Z",
                         "created_at": "2025-10-22T19:11:23.356Z",
                         "updated_at": "2025-10-22T19:11:23.356Z"
@@ -3500,7 +3500,7 @@
                     "value": {
                       "id": 1,
                       "mobile_number": 1,
-                      "status": "Lorem ipsum dolor sit amet",
+                      "status": false,
                       "validity": "2025-10-22T19:11:23.356Z",
                       "created_at": "2025-10-22T19:11:23.356Z",
                       "updated_at": "2025-10-22T19:11:23.356Z"
@@ -3738,7 +3738,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "link": "https://example.com",
                         "created_at": "2025-10-22T19:11:23.357Z",
@@ -3830,7 +3830,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "link": "https://example.com",
                       "created_at": "2025-10-22T19:11:23.357Z",
@@ -4069,7 +4069,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "category_name": "John Doe",
                         "created_at": "2025-10-22T19:11:23.358Z",
                         "updated_at": "2025-10-22T19:11:23.358Z",
@@ -4163,7 +4163,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "category_name": "John Doe",
                       "created_at": "2025-10-22T19:11:23.358Z",
                       "updated_at": "2025-10-22T19:11:23.358Z",
@@ -4404,7 +4404,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "link": "https://example.com",
                         "created_at": "2025-10-22T19:11:23.359Z",
@@ -4496,7 +4496,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "link": "https://example.com",
                       "created_at": "2025-10-22T19:11:23.359Z",
@@ -4735,7 +4735,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "size": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.360Z",
                         "updated_at": "2025-10-22T19:11:23.360Z"
@@ -4826,7 +4826,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "size": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.360Z",
                       "updated_at": "2025-10-22T19:11:23.360Z"
@@ -5064,7 +5064,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "status": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.361Z",
                         "updated_at": "2025-10-22T19:11:23.361Z"
@@ -5155,7 +5155,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "status": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.361Z",
                       "updated_at": "2025-10-22T19:11:23.361Z"
@@ -5393,7 +5393,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "country": "Lorem ipsum dolor sit amet",
                         "code": "Lorem ipsum dolor sit amet",
                         "country_code": "Lorem ipsum dolor sit amet",
@@ -5486,7 +5486,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "country": "Lorem ipsum dolor sit amet",
                       "code": "Lorem ipsum dolor sit amet",
                       "country_code": "Lorem ipsum dolor sit amet",
@@ -5726,7 +5726,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "country": "Lorem ipsum dolor sit amet",
                         "code": "Lorem ipsum dolor sit amet",
                         "country_code": "Lorem ipsum dolor sit amet",
@@ -5819,7 +5819,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "country": "Lorem ipsum dolor sit amet",
                       "code": "Lorem ipsum dolor sit amet",
                       "country_code": "Lorem ipsum dolor sit amet",
@@ -6059,7 +6059,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "platform": "Lorem ipsum dolor sit amet",
                         "device_name": "John Doe",
@@ -6160,7 +6160,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "platform": "Lorem ipsum dolor sit amet",
                       "device_name": "John Doe",
@@ -6410,7 +6410,7 @@
                       {
                         "id": 1,
                         "type_name": "John Doe",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.366Z",
                         "updated_at": "2025-10-22T19:11:23.366Z"
                       }
@@ -6502,7 +6502,7 @@
                     "value": {
                       "id": 1,
                       "type_name": "John Doe",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.366Z",
                       "updated_at": "2025-10-22T19:11:23.366Z"
                     }
@@ -6739,7 +6739,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "email": "user@example.com",
                         "time": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.367Z",
@@ -6831,7 +6831,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "email": "user@example.com",
                       "time": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.367Z",
@@ -7070,7 +7070,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "category": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.368Z",
                         "updated_at": "2025-10-22T19:11:23.368Z"
@@ -7161,7 +7161,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "category": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.368Z",
                       "updated_at": "2025-10-22T19:11:23.368Z"
@@ -7399,7 +7399,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "priority": 1,
                         "status": 1,
                         "receiver_id": "Lorem ipsum dolor sit amet",
@@ -7507,7 +7507,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "priority": 1,
                       "status": 1,
                       "receiver_id": "Lorem ipsum dolor sit amet",
@@ -7762,7 +7762,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "type_id": "Lorem ipsum dolor sit amet",
                         "is_enable": 1,
                         "email_body": "user@example.com",
@@ -7858,7 +7858,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "type_id": "Lorem ipsum dolor sit amet",
                       "is_enable": 1,
                       "email_body": "user@example.com",
@@ -8101,7 +8101,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "category_id": 1,
                         "types": "Lorem ipsum dolor sit amet",
                         "description": "Lorem ipsum dolor sit amet",
@@ -8196,7 +8196,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "category_id": 1,
                       "types": "Lorem ipsum dolor sit amet",
                       "description": "Lorem ipsum dolor sit amet",
@@ -8438,7 +8438,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "type_id": "Lorem ipsum dolor sit amet",
                         "variables": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.373Z",
@@ -8530,7 +8530,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "type_id": "Lorem ipsum dolor sit amet",
                       "variables": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.373Z",
@@ -8769,7 +8769,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "user_id": 1,
                         "friends_id": "Lorem ipsum dolor sit amet",
                         "event_id": "Lorem ipsum dolor sit amet",
@@ -8863,7 +8863,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "user_id": 1,
                       "friends_id": "Lorem ipsum dolor sit amet",
                       "event_id": "Lorem ipsum dolor sit amet",
@@ -9104,7 +9104,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "user_id": "Lorem ipsum dolor sit amet",
                         "is_favourite": 1,
                         "event_type": 1,
@@ -9202,7 +9202,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "user_id": "Lorem ipsum dolor sit amet",
                       "is_favourite": 1,
                       "event_type": 1,
@@ -9447,7 +9447,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "connection": "Lorem ipsum dolor sit amet",
                         "queue": "Lorem ipsum dolor sit amet",
                         "payload": "Lorem ipsum dolor sit amet",
@@ -9540,7 +9540,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "connection": "Lorem ipsum dolor sit amet",
                       "queue": "Lorem ipsum dolor sit amet",
                       "payload": "Lorem ipsum dolor sit amet",
@@ -9780,7 +9780,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "user_id": "Lorem ipsum dolor sit amet",
                         "fresh_sales_id": "Lorem ipsum dolor sit amet",
                         "account_type": "Lorem ipsum dolor sit amet",
@@ -9874,7 +9874,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "user_id": "Lorem ipsum dolor sit amet",
                       "fresh_sales_id": "Lorem ipsum dolor sit amet",
                       "account_type": "Lorem ipsum dolor sit amet",
@@ -10115,7 +10115,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "link": "https://example.com",
                         "created_at": "2025-10-22T19:11:23.379Z",
@@ -10207,7 +10207,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "link": "https://example.com",
                       "created_at": "2025-10-22T19:11:23.379Z",
@@ -10446,7 +10446,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "name": "John Doe",
                         "created_at": "2025-10-22T19:11:23.380Z",
                         "updated_at": "2025-10-22T19:11:23.380Z"
@@ -10537,7 +10537,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "name": "John Doe",
                       "created_at": "2025-10-22T19:11:23.380Z",
                       "updated_at": "2025-10-22T19:11:23.380Z"
@@ -10775,7 +10775,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "name": "John Doe",
                         "created_at": "2025-10-22T19:11:23.381Z",
                         "updated_at": "2025-10-22T19:11:23.381Z",
@@ -10869,7 +10869,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "name": "John Doe",
                       "created_at": "2025-10-22T19:11:23.381Z",
                       "updated_at": "2025-10-22T19:11:23.381Z",
@@ -11110,7 +11110,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "country_code": "Lorem ipsum dolor sit amet",
                         "mobile_no": 1,
                         "reffered_by": 1,
@@ -11206,7 +11206,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "country_code": "Lorem ipsum dolor sit amet",
                       "mobile_no": 1,
                       "reffered_by": 1,
@@ -11449,7 +11449,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "doc": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.384Z",
                         "updated_at": "2025-10-22T19:11:23.384Z"
@@ -11540,7 +11540,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "doc": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.384Z",
                       "updated_at": "2025-10-22T19:11:23.384Z"
@@ -11778,7 +11778,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "file_name": "John Doe",
                         "status": 1,
                         "level": 1,
@@ -11871,7 +11871,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "file_name": "John Doe",
                       "status": 1,
                       "level": 1,
@@ -12111,7 +12111,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "sector_name": "John Doe",
                         "status": 1,
                         "created_at": "2025-10-22T19:11:23.386Z",
@@ -12203,7 +12203,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "sector_name": "John Doe",
                       "status": 1,
                       "created_at": "2025-10-22T19:11:23.386Z",
@@ -12442,7 +12442,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "subsector_name": "John Doe",
                         "status": 1,
                         "created_at": "2025-10-22T19:11:23.387Z",
@@ -12534,7 +12534,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "subsector_name": "John Doe",
                       "status": 1,
                       "created_at": "2025-10-22T19:11:23.387Z",
@@ -12773,7 +12773,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "disk": "Lorem ipsum dolor sit amet",
                         "directory": "Lorem ipsum dolor sit amet",
                         "filename": "John Doe",
@@ -12874,7 +12874,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "disk": "Lorem ipsum dolor sit amet",
                       "directory": "Lorem ipsum dolor sit amet",
                       "filename": "John Doe",
@@ -13457,7 +13457,7 @@
                         "merchant_id": 1,
                         "public_hash_key": "Lorem ipsum dolor sit amet",
                         "private_hash_key": "Lorem ipsum dolor sit amet",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.391Z",
                         "updated_at": "2025-10-22T19:11:23.391Z"
                       }
@@ -13551,7 +13551,7 @@
                       "merchant_id": 1,
                       "public_hash_key": "Lorem ipsum dolor sit amet",
                       "private_hash_key": "Lorem ipsum dolor sit amet",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.391Z",
                       "updated_at": "2025-10-22T19:11:23.391Z"
                     }
@@ -13788,7 +13788,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_id": 1,
                         "site_id": 1,
                         "coupon_code": "Lorem ipsum dolor sit amet",
@@ -13884,7 +13884,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_id": 1,
                       "site_id": 1,
                       "coupon_code": "Lorem ipsum dolor sit amet",
@@ -14127,7 +14127,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_uuid": "Lorem ipsum dolor sit amet",
                         "firstname": "John Doe",
                         "lastname": "John Doe",
@@ -14242,7 +14242,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_uuid": "Lorem ipsum dolor sit amet",
                       "firstname": "John Doe",
                       "lastname": "John Doe",
@@ -14504,7 +14504,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_id": 1,
                         "token_type": 1,
                         "token_name": "John Doe",
@@ -14599,7 +14599,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_id": 1,
                       "token_type": 1,
                       "token_name": "John Doe",
@@ -14841,7 +14841,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_id": 1,
                         "doc_type_id": 1,
                         "media_id": 1,
@@ -14936,7 +14936,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_id": 1,
                       "doc_type_id": 1,
                       "media_id": 1,
@@ -15178,7 +15178,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "merchant_id": "Lorem ipsum dolor sit amet",
                         "description": "Lorem ipsum dolor sit amet",
@@ -15275,7 +15275,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "merchant_id": "Lorem ipsum dolor sit amet",
                       "description": "Lorem ipsum dolor sit amet",
@@ -15519,7 +15519,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_id": 1,
                         "token": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.399Z",
@@ -15611,7 +15611,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_id": 1,
                       "token": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.399Z",
@@ -15850,7 +15850,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "package_subscription_id": 1,
                         "status": 1,
                         "transaction_id": 1,
@@ -15945,7 +15945,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "package_subscription_id": 1,
                       "status": 1,
                       "transaction_id": 1,
@@ -16187,7 +16187,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "website": "Lorem ipsum dolor sit amet",
                         "media_id": 1,
@@ -16287,7 +16287,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "website": "Lorem ipsum dolor sit amet",
                       "media_id": 1,
@@ -16541,7 +16541,7 @@
                         "department": "Lorem ipsum dolor sit amet",
                         "phone_no": "+1-555-555-5555",
                         "mobile_no": "Lorem ipsum dolor sit amet",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.403Z",
                         "updated_at": "2025-10-22T19:11:23.403Z"
                       }
@@ -16638,7 +16638,7 @@
                       "department": "Lorem ipsum dolor sit amet",
                       "phone_no": "+1-555-555-5555",
                       "mobile_no": "Lorem ipsum dolor sit amet",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.403Z",
                       "updated_at": "2025-10-22T19:11:23.403Z"
                     }
@@ -16875,7 +16875,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "migration": "Lorem ipsum dolor sit amet",
                         "batch": 1
                       }
@@ -16965,7 +16965,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "migration": "Lorem ipsum dolor sit amet",
                       "batch": 1
                     }
@@ -17202,7 +17202,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "link": "https://example.com",
                         "created_at": "2025-10-22T19:11:23.405Z",
@@ -17294,7 +17294,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "link": "https://example.com",
                       "created_at": "2025-10-22T19:11:23.405Z",
@@ -17533,7 +17533,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "category": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.407Z",
                         "updated_at": "2025-10-22T19:11:23.407Z"
@@ -17624,7 +17624,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "category": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.407Z",
                       "updated_at": "2025-10-22T19:11:23.407Z"
@@ -17862,7 +17862,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.408Z",
                         "updated_at": "2025-10-22T19:11:23.408Z",
                         "token": "Lorem ipsum dolor sit amet",
@@ -17964,7 +17964,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.408Z",
                       "updated_at": "2025-10-22T19:11:23.408Z",
                       "token": "Lorem ipsum dolor sit amet",
@@ -18213,7 +18213,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "receiver_id": 1,
                         "receiver_name": "John Doe",
                         "receiver_phone": "+1-555-555-5555",
@@ -18318,7 +18318,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "receiver_id": 1,
                       "receiver_name": "John Doe",
                       "receiver_phone": "+1-555-555-5555",
@@ -18570,7 +18570,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "type_id": "Lorem ipsum dolor sit amet",
                         "is_enable": 1,
                         "body": "Lorem ipsum dolor sit amet",
@@ -18664,7 +18664,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "type_id": "Lorem ipsum dolor sit amet",
                       "is_enable": 1,
                       "body": "Lorem ipsum dolor sit amet",
@@ -18905,7 +18905,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "category_id": "Lorem ipsum dolor sit amet",
                         "type": 1,
                         "type_name": "John Doe",
@@ -18999,7 +18999,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "category_id": "Lorem ipsum dolor sit amet",
                       "type": 1,
                       "type_name": "John Doe",
@@ -19240,7 +19240,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "type_id": "Lorem ipsum dolor sit amet",
                         "variable": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.412Z",
@@ -19332,7 +19332,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "type_id": "Lorem ipsum dolor sit amet",
                       "variable": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.412Z",
@@ -19571,7 +19571,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "user_id": 1,
                         "client_id": 1,
                         "name": "John Doe",
@@ -19667,7 +19667,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "user_id": 1,
                       "client_id": 1,
                       "name": "John Doe",
@@ -19910,7 +19910,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "user_id": 1,
                         "client_id": 1,
                         "scopes": "Lorem ipsum dolor sit amet",
@@ -20003,7 +20003,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "user_id": 1,
                       "client_id": 1,
                       "scopes": "Lorem ipsum dolor sit amet",
@@ -20243,7 +20243,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "name": "John Doe",
                         "secret": "Lorem ipsum dolor sit amet",
@@ -20341,7 +20341,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "name": "John Doe",
                       "secret": "Lorem ipsum dolor sit amet",
@@ -20586,7 +20586,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "client_id": 1,
                         "created_at": "2025-10-22T19:11:23.417Z",
                         "updated_at": "2025-10-22T19:11:23.417Z"
@@ -20677,7 +20677,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "client_id": 1,
                       "created_at": "2025-10-22T19:11:23.417Z",
                       "updated_at": "2025-10-22T19:11:23.417Z"
@@ -20915,7 +20915,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "access_token_id": "Lorem ipsum dolor sit amet",
                         "revoked": 1,
                         "expires_at": "2025-10-22T19:11:23.418Z"
@@ -21006,7 +21006,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "access_token_id": "Lorem ipsum dolor sit amet",
                       "revoked": 1,
                       "expires_at": "2025-10-22T19:11:23.418Z"
@@ -21244,7 +21244,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "country_code": "Lorem ipsum dolor sit amet",
                         "mobile_number": "Lorem ipsum dolor sit amet",
                         "otp": "Lorem ipsum dolor sit amet",
@@ -21340,7 +21340,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "country_code": "Lorem ipsum dolor sit amet",
                       "mobile_number": "Lorem ipsum dolor sit amet",
                       "otp": "Lorem ipsum dolor sit amet",
@@ -21583,7 +21583,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "media_id": 1,
                         "partner_image": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
@@ -21678,7 +21678,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "media_id": 1,
                       "partner_image": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
@@ -21920,7 +21920,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "merchant_id": 1,
                         "package_id": 1,
                         "api_hit_tracks": 1,
@@ -22020,7 +22020,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "merchant_id": 1,
                       "package_id": 1,
                       "api_hit_tracks": 1,
@@ -22267,7 +22267,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "package_title": "Lorem ipsum dolor sit amet",
                         "package_desc": "Lorem ipsum dolor sit amet",
                         "amount": 1,
@@ -22363,7 +22363,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "package_title": "Lorem ipsum dolor sit amet",
                       "package_desc": "Lorem ipsum dolor sit amet",
                       "amount": 1,
@@ -22933,7 +22933,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "mobile": "Lorem ipsum dolor sit amet",
                         "cc": "Lorem ipsum dolor sit amet",
                         "token": "Lorem ipsum dolor sit amet",
@@ -23026,7 +23026,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "mobile": "Lorem ipsum dolor sit amet",
                       "cc": "Lorem ipsum dolor sit amet",
                       "token": "Lorem ipsum dolor sit amet",
@@ -23266,7 +23266,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "question": "Lorem ipsum dolor sit amet",
                         "category_question_id": "Lorem ipsum dolor sit amet",
                         "answer": "Lorem ipsum dolor sit amet",
@@ -23361,7 +23361,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "question": "Lorem ipsum dolor sit amet",
                       "category_question_id": "Lorem ipsum dolor sit amet",
                       "answer": "Lorem ipsum dolor sit amet",
@@ -23603,7 +23603,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "reference_id": 1,
                         "status": 1,
@@ -23696,7 +23696,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "reference_id": 1,
                       "status": 1,
@@ -23936,7 +23936,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "source": 1,
                         "merchant_id": 1,
@@ -24033,7 +24033,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "source": 1,
                       "merchant_id": 1,
@@ -24277,7 +24277,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "type": 1,
                         "status": 1,
@@ -24370,7 +24370,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "type": 1,
                       "status": 1,
@@ -24610,7 +24610,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "retailer_id": 1,
                         "media_id": 1,
                         "media_url": "https://example.com",
@@ -24704,7 +24704,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "retailer_id": 1,
                       "media_id": 1,
                       "media_url": "https://example.com",
@@ -24945,7 +24945,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "user_id": 1,
                         "ip_address": "Lorem ipsum dolor sit amet",
                         "user_agent": "Lorem ipsum dolor sit amet",
@@ -25038,7 +25038,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "user_id": 1,
                       "ip_address": "Lorem ipsum dolor sit amet",
                       "user_agent": "Lorem ipsum dolor sit amet",
@@ -25278,7 +25278,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "key": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "value": "Lorem ipsum dolor sit amet",
@@ -25371,7 +25371,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "key": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "value": "Lorem ipsum dolor sit amet",
@@ -25611,7 +25611,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "shipping_first_name": "John Doe",
                         "shipping_last_name": "John Doe",
                         "shipping_company": "Lorem ipsum dolor sit amet",
@@ -25711,7 +25711,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "shipping_first_name": "John Doe",
                       "shipping_last_name": "John Doe",
                       "shipping_company": "Lorem ipsum dolor sit amet",
@@ -25958,7 +25958,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "domain": "Lorem ipsum dolor sit amet",
                         "type": 1,
@@ -26051,7 +26051,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "domain": "Lorem ipsum dolor sit amet",
                       "type": 1,
@@ -26291,7 +26291,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "name": "John Doe",
                         "email": "user@example.com",
                         "subject": "Lorem ipsum dolor sit amet",
@@ -26385,7 +26385,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "name": "John Doe",
                       "email": "user@example.com",
                       "subject": "Lorem ipsum dolor sit amet",
@@ -26626,7 +26626,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "reffered_id": "Lorem ipsum dolor sit amet",
                         "friend_id": "Lorem ipsum dolor sit amet",
                         "event_id": "Lorem ipsum dolor sit amet",
@@ -26720,7 +26720,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "reffered_id": "Lorem ipsum dolor sit amet",
                       "friend_id": "Lorem ipsum dolor sit amet",
                       "event_id": "Lorem ipsum dolor sit amet",
@@ -26961,7 +26961,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "userId": 1,
                         "deviceType": 1,
                         "updatedTime": 1,
@@ -27061,7 +27061,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "userId": 1,
                       "deviceType": 1,
                       "updatedTime": 1,
@@ -27313,7 +27313,7 @@
                         "reffered_id": 1,
                         "friends_id": 1,
                         "birthday_flag_cron": 1,
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.439Z",
                         "updated_at": "2025-10-22T19:11:23.439Z",
                         "is_favourite": 1,
@@ -27410,7 +27410,7 @@
                       "reffered_id": 1,
                       "friends_id": 1,
                       "birthday_flag_cron": 1,
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.439Z",
                       "updated_at": "2025-10-22T19:11:23.439Z",
                       "is_favourite": 1,
@@ -27649,7 +27649,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "email": "user@example.com",
                         "created_at": "2025-10-22T19:11:23.440Z",
                         "updated_at": "2025-10-22T19:11:23.440Z"
@@ -27740,7 +27740,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "email": "user@example.com",
                       "created_at": "2025-10-22T19:11:23.440Z",
                       "updated_at": "2025-10-22T19:11:23.440Z"
@@ -27978,7 +27978,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "address1": "Lorem ipsum dolor sit amet",
                         "address2": "Lorem ipsum dolor sit amet",
                         "city": "Lorem ipsum dolor sit amet",
@@ -28073,7 +28073,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "address1": "Lorem ipsum dolor sit amet",
                       "address2": "Lorem ipsum dolor sit amet",
                       "city": "Lorem ipsum dolor sit amet",
@@ -28315,7 +28315,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "name": "John Doe",
                         "link": "https://example.com",
                         "logo": "Lorem ipsum dolor sit amet",
@@ -28408,7 +28408,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "name": "John Doe",
                       "link": "https://example.com",
                       "logo": "Lorem ipsum dolor sit amet",
@@ -28648,7 +28648,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "profile_pic_name": "John Doe",
                         "created_at": "2025-10-22T19:11:23.443Z",
@@ -28740,7 +28740,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "profile_pic_name": "John Doe",
                       "created_at": "2025-10-22T19:11:23.443Z",
@@ -28979,7 +28979,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "sender_id": 1,
                         "random_token": 1,
                         "expiry_date": "2025-10-22T19:11:23.444Z",
@@ -29072,7 +29072,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "sender_id": 1,
                       "random_token": 1,
                       "expiry_date": "2025-10-22T19:11:23.444Z",
@@ -29312,7 +29312,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "post_type": 1,
                         "subject": "Lorem ipsum dolor sit amet",
                         "message": "Lorem ipsum dolor sit amet",
@@ -29406,7 +29406,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "post_type": 1,
                       "subject": "Lorem ipsum dolor sit amet",
                       "message": "Lorem ipsum dolor sit amet",
@@ -29647,7 +29647,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "merchant_id": "Lorem ipsum dolor sit amet",
                         "merchant_website_id": "Lorem ipsum dolor sit amet",
                         "merchant_offer_id": "Lorem ipsum dolor sit amet",
@@ -29740,7 +29740,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "merchant_id": "Lorem ipsum dolor sit amet",
                       "merchant_website_id": "Lorem ipsum dolor sit amet",
                       "merchant_offer_id": "Lorem ipsum dolor sit amet",
@@ -29984,7 +29984,7 @@
                         "zone_code": "Lorem ipsum dolor sit amet",
                         "time_zone_desc": "Lorem ipsum dolor sit amet",
                         "hours_behind_gmt": "Lorem ipsum dolor sit amet",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.447Z",
                         "updated_at": "2025-10-22T19:11:23.447Z"
                       }
@@ -30078,7 +30078,7 @@
                       "zone_code": "Lorem ipsum dolor sit amet",
                       "time_zone_desc": "Lorem ipsum dolor sit amet",
                       "hours_behind_gmt": "Lorem ipsum dolor sit amet",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.447Z",
                       "updated_at": "2025-10-22T19:11:23.447Z"
                     }
@@ -30315,7 +30315,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "transaction_id": 1,
                         "website_url": "https://example.com",
                         "website_logo": "Lorem ipsum dolor sit amet",
@@ -30415,7 +30415,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "transaction_id": 1,
                       "website_url": "https://example.com",
                       "website_logo": "Lorem ipsum dolor sit amet",
@@ -30662,7 +30662,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "mobile_no_id": 1,
                         "status": 1,
                         "created_at": "2025-10-22T19:11:23.450Z",
@@ -30754,7 +30754,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "mobile_no_id": 1,
                       "status": 1,
                       "created_at": "2025-10-22T19:11:23.450Z",
@@ -30993,7 +30993,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": 1,
                         "msg_title": "Lorem ipsum dolor sit amet",
                         "msg_description": "Lorem ipsum dolor sit amet",
@@ -31087,7 +31087,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": 1,
                       "msg_title": "Lorem ipsum dolor sit amet",
                       "msg_description": "Lorem ipsum dolor sit amet",
@@ -31341,7 +31341,7 @@
                         "address_type_id": 1,
                         "isPrimary": 1,
                         "house_flat_number": "Lorem ipsum dolor sit amet",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "created_at": "2025-10-22T19:11:23.452Z",
                         "updated_at": "2025-10-22T19:11:23.452Z",
                         "deleted_at": "2025-10-22T19:11:23.452Z"
@@ -31445,7 +31445,7 @@
                       "address_type_id": 1,
                       "isPrimary": 1,
                       "house_flat_number": "Lorem ipsum dolor sit amet",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "created_at": "2025-10-22T19:11:23.452Z",
                       "updated_at": "2025-10-22T19:11:23.452Z",
                       "deleted_at": "2025-10-22T19:11:23.452Z"
@@ -31683,7 +31683,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": "Lorem ipsum dolor sit amet",
                         "feedback": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.453Z",
@@ -31777,7 +31777,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": "Lorem ipsum dolor sit amet",
                       "feedback": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.453Z",
@@ -32018,7 +32018,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": "Lorem ipsum dolor sit amet",
                         "guide_type": 1,
                         "guide_date": "Lorem ipsum dolor sit amet",
@@ -32111,7 +32111,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": "Lorem ipsum dolor sit amet",
                       "guide_type": 1,
                       "guide_date": "Lorem ipsum dolor sit amet",
@@ -32367,7 +32367,7 @@
                         "gender": "Lorem ipsum dolor sit amet",
                         "profile_pic_name": "John Doe",
                         "profile_thumbnail": "Lorem ipsum dolor sit amet",
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "is_active": 1,
                         "notification_pref": 1,
                         "is_verified": 1,
@@ -32486,7 +32486,7 @@
                       "gender": "Lorem ipsum dolor sit amet",
                       "profile_pic_name": "John Doe",
                       "profile_thumbnail": "Lorem ipsum dolor sit amet",
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "is_active": 1,
                       "notification_pref": 1,
                       "is_verified": 1,
@@ -32742,7 +32742,7 @@
                         "mobile_no": "Lorem ipsum dolor sit amet",
                         "isPrimary": 1,
                         "isPrivate": 1,
-                        "isEnabled": 1,
+                        "isEnabled": false,
                         "flag": 1,
                         "auth_type": 1,
                         "created_at": "2025-10-22T19:11:23.457Z",
@@ -32842,7 +32842,7 @@
                       "mobile_no": "Lorem ipsum dolor sit amet",
                       "isPrimary": 1,
                       "isPrivate": 1,
-                      "isEnabled": 1,
+                      "isEnabled": false,
                       "flag": 1,
                       "auth_type": 1,
                       "created_at": "2025-10-22T19:11:23.457Z",
@@ -33083,7 +33083,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_uuid": "Lorem ipsum dolor sit amet",
                         "info_id": 1,
                         "info_id_uuid": "Lorem ipsum dolor sit amet",
@@ -33199,7 +33199,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_uuid": "Lorem ipsum dolor sit amet",
                       "info_id": 1,
                       "info_id_uuid": "Lorem ipsum dolor sit amet",
@@ -33462,7 +33462,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": "Lorem ipsum dolor sit amet",
+                        "id": 0,
                         "user_id": "Lorem ipsum dolor sit amet",
                         "logs": "Lorem ipsum dolor sit amet",
                         "created_at": "2025-10-22T19:11:23.460Z",
@@ -33554,7 +33554,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": "Lorem ipsum dolor sit amet",
+                      "id": 0,
                       "user_id": "Lorem ipsum dolor sit amet",
                       "logs": "Lorem ipsum dolor sit amet",
                       "created_at": "2025-10-22T19:11:23.460Z",
@@ -33793,7 +33793,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "user_id": "Lorem ipsum dolor sit amet",
                         "retailer_id": "Lorem ipsum dolor sit amet",
                         "retailer_favourite": 1,
@@ -33886,7 +33886,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "user_id": "Lorem ipsum dolor sit amet",
                       "retailer_id": "Lorem ipsum dolor sit amet",
                       "retailer_favourite": 1,
@@ -34126,7 +34126,7 @@
                   "example": {
                     "value": [
                       {
-                        "id": 1,
+                        "id": "Lorem ipsum dolor sit amet",
                         "title": "Lorem ipsum dolor sit amet",
                         "description": "Lorem ipsum dolor sit amet",
                         "color": "Lorem ipsum dolor sit amet",
@@ -34222,7 +34222,7 @@
                 "examples": {
                   "example": {
                     "value": {
-                      "id": 1,
+                      "id": "Lorem ipsum dolor sit amet",
                       "title": "Lorem ipsum dolor sit amet",
                       "description": "Lorem ipsum dolor sit amet",
                       "color": "Lorem ipsum dolor sit amet",
@@ -34571,7 +34571,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "created_at": {
             "type": [
@@ -34619,7 +34620,7 @@
           "page": "Lorem ipsum dolor sit amet",
           "date": "2025-10-22T19:11:23.341Z",
           "show_topImage": "Lorem ipsum dolor sit amet",
-          "uuid": "Lorem ipsum dolor sit amet",
+          "uuid": "00000000-0000-0000-0000-000000000000",
           "created_at": "2025-10-22T19:11:23.342Z",
           "updated_at": "2025-10-22T19:11:23.342Z"
         }
@@ -34641,11 +34642,7 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -34671,7 +34668,7 @@
         "example": {
           "id": 1,
           "type": "Lorem ipsum dolor sit amet",
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.343Z",
           "updated_at": "2025-10-22T19:11:23.343Z"
         }
@@ -34971,11 +34968,7 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "1"
           },
           "created_at": {
@@ -35006,7 +34999,7 @@
           "merchant_id": 1,
           "api_hit_counts": 1,
           "subscription_last_date": "2025-10-22T19:11:23.350Z",
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.350Z",
           "updated_at": "2025-10-22T19:11:23.350Z"
         }
@@ -35284,7 +35277,7 @@
             "default": null
           },
           "status": {
-            "type": "string",
+            "type": "boolean",
             "default": null,
             "description": "0 Pending , 1 Approved , 2 Declined "
           },
@@ -35322,7 +35315,7 @@
         "example": {
           "id": 1,
           "mobile_number": 1,
-          "status": "Lorem ipsum dolor sit amet",
+          "status": false,
           "validity": "2025-10-22T19:11:23.356Z",
           "created_at": "2025-10-22T19:11:23.356Z",
           "updated_at": "2025-10-22T19:11:23.356Z"
@@ -35542,7 +35535,7 @@
             "readOnly": true
           },
           "status": {
-            "type": "string",
+            "type": "boolean",
             "default": null
           },
           "created_at": {
@@ -35568,7 +35561,7 @@
         ],
         "example": {
           "id": 1,
-          "status": "Lorem ipsum dolor sit amet",
+          "status": false,
           "created_at": "2025-10-22T19:11:23.361Z",
           "updated_at": "2025-10-22T19:11:23.361Z"
         }
@@ -35821,11 +35814,7 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -35851,7 +35840,7 @@
         "example": {
           "id": 1,
           "type_name": "John Doe",
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.366Z",
           "updated_at": "2025-10-22T19:11:23.366Z"
         }
@@ -35870,7 +35859,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "time": {
             "type": [
@@ -35964,8 +35954,7 @@
             "description": "1=Normal, 2=Urgent, 3=Batch"
           },
           "status": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "0",
             "description": "0=Pending, 1=Success, 2=Failed"
           },
@@ -35987,7 +35976,8 @@
           },
           "receiver_email": {
             "type": "string",
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "read_status": {
             "type": [
@@ -35999,7 +35989,7 @@
           },
           "email_type": {
             "type": "integer",
-            "format": "int32",
+            "format": "email",
             "default": null
           },
           "subject": {
@@ -36032,8 +36022,7 @@
             "default": null
           },
           "is_delete": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "mail_type": {
@@ -36062,7 +36051,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "additional_info": {
             "type": [
@@ -36101,18 +36091,18 @@
         "example": {
           "id": 1,
           "priority": 1,
-          "status": 1,
+          "status": false,
           "receiver_id": "Lorem ipsum dolor sit amet",
           "sender_id": "Lorem ipsum dolor sit amet",
           "receiver_email": "user@example.com",
           "read_status": 1,
-          "email_type": 1,
+          "email_type": "user@example.com",
           "subject": "Lorem ipsum dolor sit amet",
           "content": "Lorem ipsum dolor sit amet",
           "sent_at": "Lorem ipsum dolor sit amet",
           "message": "Lorem ipsum dolor sit amet",
           "sent_via": "Lorem ipsum dolor sit amet",
-          "is_delete": 1,
+          "is_delete": false,
           "mail_type": "Lorem ipsum dolor sit amet",
           "entity_id": "Lorem ipsum dolor sit amet",
           "section_type": "Lorem ipsum dolor sit amet",
@@ -36139,18 +36129,19 @@
             "default": null
           },
           "is_enable": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "1",
             "description": "-1=Required, 0=Disable, 1=Enable"
           },
           "email_body": {
             "type": "string",
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "emails_subject": {
             "type": "string",
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "priority": {
             "type": "integer",
@@ -36192,7 +36183,7 @@
         "example": {
           "id": 1,
           "type_id": "Lorem ipsum dolor sit amet",
-          "is_enable": 1,
+          "is_enable": false,
           "email_body": "user@example.com",
           "emails_subject": "user@example.com",
           "priority": 1,
@@ -36351,11 +36342,7 @@
             "default": null
           },
           "is_reminder": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -36385,7 +36372,7 @@
           "user_id": 1,
           "friends_id": "Lorem ipsum dolor sit amet",
           "event_id": "Lorem ipsum dolor sit amet",
-          "is_reminder": 1,
+          "is_reminder": false,
           "created_at": "2025-10-22T19:11:23.374Z",
           "updated_at": "2025-10-22T19:11:23.374Z"
         }
@@ -36406,11 +36393,7 @@
             "default": null
           },
           "is_favourite": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "event_type": {
@@ -36480,7 +36463,7 @@
         "example": {
           "id": "Lorem ipsum dolor sit amet",
           "user_id": "Lorem ipsum dolor sit amet",
-          "is_favourite": 1,
+          "is_favourite": false,
           "event_type": 1,
           "title": "Lorem ipsum dolor sit amet",
           "msg": "Lorem ipsum dolor sit amet",
@@ -36568,7 +36551,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "created_at": {
             "type": [
@@ -36735,8 +36719,7 @@
             "default": null
           },
           "is_fav": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           }
         },
@@ -36752,7 +36735,7 @@
           "updated_at": "2025-10-22T19:11:23.381Z",
           "media_id": 1,
           "img_url": "https://example.com",
-          "is_fav": 1
+          "is_fav": false
         }
       },
       "Invitedfriends": {
@@ -36779,11 +36762,7 @@
             "default": null
           },
           "status": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "user_id": {
@@ -36827,7 +36806,7 @@
           "country_code": "Lorem ipsum dolor sit amet",
           "mobile_no": 1,
           "reffered_by": 1,
-          "status": 1,
+          "status": false,
           "user_id": 1,
           "created_date": "2025-10-22T19:11:23.383Z",
           "created_at": "2025-10-22T19:11:23.383Z",
@@ -36889,8 +36868,7 @@
             "default": null
           },
           "status": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": null,
             "description": "0 disable , 1 enable"
           },
@@ -36925,7 +36903,7 @@
         "example": {
           "id": 1,
           "file_name": "John Doe",
-          "status": 1,
+          "status": false,
           "level": 1,
           "created_at": "2025-10-22T19:11:23.385Z",
           "updated_at": "2025-10-22T19:11:23.385Z"
@@ -36945,11 +36923,7 @@
             "default": null
           },
           "status": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -36976,7 +36950,7 @@
         "example": {
           "id": 1,
           "sector_name": "John Doe",
-          "status": 1,
+          "status": false,
           "created_at": "2025-10-22T19:11:23.386Z",
           "updated_at": "2025-10-22T19:11:23.386Z"
         }
@@ -36995,11 +36969,7 @@
             "default": null
           },
           "status": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -37026,7 +36996,7 @@
         "example": {
           "id": 1,
           "subsector_name": "John Doe",
-          "status": 1,
+          "status": false,
           "created_at": "2025-10-22T19:11:23.387Z",
           "updated_at": "2025-10-22T19:11:23.387Z"
         }
@@ -37089,7 +37059,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "original_filename": {
             "type": [
@@ -37136,7 +37107,7 @@
           "size": 1,
           "variant_name": "John Doe",
           "original_media_id": 1,
-          "uuid": "Lorem ipsum dolor sit amet",
+          "uuid": "00000000-0000-0000-0000-000000000000",
           "original_filename": "John Doe",
           "created_at": "2025-10-22T19:11:23.389Z",
           "updated_at": "2025-10-22T19:11:23.389Z"
@@ -37218,11 +37189,7 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -37251,7 +37218,7 @@
           "merchant_id": 1,
           "public_hash_key": "Lorem ipsum dolor sit amet",
           "private_hash_key": "Lorem ipsum dolor sit amet",
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.391Z",
           "updated_at": "2025-10-22T19:11:23.391Z"
         }
@@ -37539,7 +37506,7 @@
         ],
         "example": {
           "id": 1,
-          "merchant_uuid": "Lorem ipsum dolor sit amet",
+          "merchant_uuid": "00000000-0000-0000-0000-000000000000",
           "firstname": "John Doe",
           "lastname": "John Doe",
           "phone_number": "+1-555-555-5555",
@@ -37554,8 +37521,8 @@
           "company_status": 1,
           "email_id": "user@example.com",
           "website": "Lorem ipsum dolor sit amet",
-          "is_enable": 1,
-          "isVerified": 1,
+          "is_enable": false,
+          "isVerified": false,
           "user_id": 1,
           "password_for_admin": "Lorem ipsum dolor sit amet",
           "address_line2": "Lorem ipsum dolor sit amet",
@@ -37600,7 +37567,7 @@
             "default": null
           },
           "status": {
-            "type": "string",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -37633,7 +37600,7 @@
           "token_type": 1,
           "token_name": "John Doe",
           "token": "Lorem ipsum dolor sit amet",
-          "status": "Lorem ipsum dolor sit amet",
+          "status": false,
           "created_at": "2025-10-22T19:11:23.396Z",
           "updated_at": "2025-10-22T19:11:23.396Z"
         }
@@ -37870,11 +37837,7 @@
             "default": null
           },
           "status": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "transaction_id": {
@@ -37922,7 +37885,7 @@
         "example": {
           "id": 1,
           "package_subscription_id": 1,
-          "status": 1,
+          "status": false,
           "transaction_id": 1,
           "name": "John Doe",
           "mobile_no": 1,
@@ -38099,11 +38062,7 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -38134,7 +38093,7 @@
           "department": "Lorem ipsum dolor sit amet",
           "phone_no": "+1-555-555-5555",
           "mobile_no": "Lorem ipsum dolor sit amet",
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.403Z",
           "updated_at": "2025-10-22T19:11:23.403Z"
         }
@@ -38286,8 +38245,7 @@
             "default": null
           },
           "status": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "0",
             "description": "0 = pending , 1 = sent , 2 = failed"
           },
@@ -38373,7 +38331,7 @@
           "created_at": "2025-10-22T19:11:23.408Z",
           "updated_at": "2025-10-22T19:11:23.408Z",
           "token": "Lorem ipsum dolor sit amet",
-          "status": 1,
+          "status": false,
           "device_type": 1,
           "data_msg": "Lorem ipsum dolor sit amet",
           "noti_msg": "Lorem ipsum dolor sit amet",
@@ -38431,8 +38389,7 @@
             "default": null
           },
           "status": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "0",
             "description": "0=Pending, 1=Success, 2=Failed"
           },
@@ -38529,7 +38486,7 @@
           "receiver_phone": "+1-555-555-5555",
           "message": "Lorem ipsum dolor sit amet",
           "sent_at": "Lorem ipsum dolor sit amet",
-          "status": 1,
+          "status": false,
           "device_info": "Lorem ipsum dolor sit amet",
           "logs_response": "Lorem ipsum dolor sit amet",
           "receive_status": 1,
@@ -38559,8 +38516,7 @@
             "default": null
           },
           "is_enable": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "1",
             "description": "-1=Required, 0=Disable, 1=Enable"
           },
@@ -38598,7 +38554,7 @@
         "example": {
           "id": "Lorem ipsum dolor sit amet",
           "type_id": "Lorem ipsum dolor sit amet",
-          "is_enable": 1,
+          "is_enable": false,
           "body": "Lorem ipsum dolor sit amet",
           "subject": "Lorem ipsum dolor sit amet",
           "created_at": "2025-10-22T19:11:23.410Z",
@@ -39152,7 +39108,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "created_at": {
             "type": [
@@ -39180,7 +39137,7 @@
           "partner_image": "Lorem ipsum dolor sit amet",
           "title": "Lorem ipsum dolor sit amet",
           "link": "https://example.com",
-          "uuid": "Lorem ipsum dolor sit amet",
+          "uuid": "00000000-0000-0000-0000-000000000000",
           "created_at": "2025-10-22T19:11:23.420Z",
           "updated_at": "2025-10-22T19:11:23.420Z"
         }
@@ -39217,8 +39174,7 @@
             "default": null
           },
           "status": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "subscription_date": {
@@ -39242,11 +39198,7 @@
             "default": null
           },
           "isActive": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "order_id": {
@@ -39288,11 +39240,11 @@
           "merchant_id": 1,
           "package_id": 1,
           "api_hit_tracks": 1,
-          "status": 1,
+          "status": false,
           "subscription_date": "2025-10-22T19:11:23.421Z",
           "subscription_last_date": "2025-10-22T19:11:23.421Z",
           "amount": "Lorem ipsum dolor sit amet",
-          "isActive": 1,
+          "isActive": false,
           "order_id": 1,
           "stripe_token": "Lorem ipsum dolor sit amet",
           "created_at": "2025-10-22T19:11:23.421Z",
@@ -39339,11 +39291,7 @@
             "default": null
           },
           "is_delete": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -39377,7 +39325,7 @@
           "amount": 1,
           "validity": "MONTHLY",
           "api_hit_count": 1,
-          "is_delete": 1,
+          "is_delete": false,
           "created_at": "2025-10-22T19:11:23.422Z",
           "updated_at": "2025-10-22T19:11:23.422Z"
         }
@@ -39387,7 +39335,8 @@
         "properties": {
           "email": {
             "type": "string",
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "token": {
             "type": "string",
@@ -39571,11 +39520,7 @@
             "default": null
           },
           "status": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -39603,7 +39548,7 @@
           "id": 1,
           "user_id": 1,
           "reference_id": 1,
-          "status": 1,
+          "status": false,
           "created_at": "2025-10-22T19:11:23.426Z",
           "updated_at": "2025-10-22T19:11:23.426Z"
         }
@@ -39726,8 +39671,7 @@
             "description": "1 sms , 2 email"
           },
           "status": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "0",
             "description": "0 Pending , 1 Processing , 2 sent , 3 Failed"
           },
@@ -39756,7 +39700,7 @@
           "id": 1,
           "user_id": 1,
           "type": 1,
-          "status": 1,
+          "status": false,
           "created_at": "2025-10-22T19:11:23.429Z",
           "updated_at": "2025-10-22T19:11:23.429Z"
         }
@@ -40131,7 +40075,8 @@
           },
           "email": {
             "type": "string",
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "subject": {
             "type": "string",
@@ -40205,11 +40150,7 @@
             "default": null
           },
           "is_favourite": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -40237,7 +40178,7 @@
           "reffered_id": "Lorem ipsum dolor sit amet",
           "friend_id": "Lorem ipsum dolor sit amet",
           "event_id": "Lorem ipsum dolor sit amet",
-          "is_favourite": 1,
+          "is_favourite": false,
           "created_at": "2025-10-22T19:11:23.436Z",
           "updated_at": "2025-10-22T19:11:23.436Z"
         }
@@ -40272,7 +40213,8 @@
           },
           "uuId": {
             "type": "string",
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "fcmToken": {
             "type": "string",
@@ -40320,11 +40262,7 @@
             "default": null
           },
           "deleted_at": {
-            "type": [
-              "string",
-              "null"
-            ],
-            "format": "date-time",
+            "type": "boolean",
             "default": null
           }
         },
@@ -40341,7 +40279,7 @@
           "userId": 1,
           "deviceType": 1,
           "updatedTime": 1,
-          "uuId": "Lorem ipsum dolor sit amet",
+          "uuId": "00000000-0000-0000-0000-000000000000",
           "fcmToken": "Lorem ipsum dolor sit amet",
           "imeiNo": "Lorem ipsum dolor sit amet",
           "deviceMake": "Lorem ipsum dolor sit amet",
@@ -40349,7 +40287,7 @@
           "deviceDetails": "Lorem ipsum dolor sit amet",
           "created_at": "2025-10-22T19:11:23.437Z",
           "updated_at": "2025-10-22T19:11:23.437Z",
-          "deleted_at": "2025-10-22T19:11:23.437Z"
+          "deleted_at": false
         }
       },
       "Tblfriends": {
@@ -40384,11 +40322,7 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -40408,19 +40342,11 @@
             "default": null
           },
           "is_favourite": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "is_block": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           }
         },
@@ -40436,11 +40362,11 @@
           "reffered_id": 1,
           "friends_id": 1,
           "birthday_flag_cron": 1,
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.439Z",
           "updated_at": "2025-10-22T19:11:23.439Z",
-          "is_favourite": 1,
-          "is_block": 1
+          "is_favourite": false,
+          "is_block": false
         }
       },
       "Tblgocardlesscustomer": {
@@ -40454,7 +40380,8 @@
           },
           "email": {
             "type": "string",
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "created_at": {
             "type": [
@@ -40841,11 +40768,7 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -40876,7 +40799,7 @@
           "zone_code": "Lorem ipsum dolor sit amet",
           "time_zone_desc": "Lorem ipsum dolor sit amet",
           "hours_behind_gmt": "Lorem ipsum dolor sit amet",
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.447Z",
           "updated_at": "2025-10-22T19:11:23.447Z"
         }
@@ -40935,11 +40858,7 @@
             "default": "0"
           },
           "status": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0",
             "description": "0 pending , 1 invalid , 3 expired , 4 authenticated , 5 cancelled , 6 completed"
           },
@@ -40994,7 +40913,7 @@
           "friend_name": "John Doe",
           "business_name": "John Doe",
           "user_id": 1,
-          "status": 1,
+          "status": false,
           "auth_mode": 1,
           "created_at": "2025-10-22T19:11:23.449Z",
           "updated_at": "2025-10-22T19:11:23.449Z",
@@ -41020,11 +40939,7 @@
             "default": null
           },
           "status": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "created_at": {
@@ -41050,7 +40965,7 @@
         "example": {
           "id": 1,
           "mobile_no_id": 1,
-          "status": 1,
+          "status": false,
           "created_at": "2025-10-22T19:11:23.450Z",
           "updated_at": "2025-10-22T19:11:23.450Z"
         }
@@ -41121,7 +41036,7 @@
           "user_id": 1,
           "msg_title": "Lorem ipsum dolor sit amet",
           "msg_description": "Lorem ipsum dolor sit amet",
-          "is_enable": "1",
+          "is_enable": false,
           "created_at": "2025-10-22T19:11:23.451Z",
           "updated_at": "2025-10-22T19:11:23.451Z"
         }
@@ -41235,11 +41150,7 @@
             "default": null
           },
           "deleted_at": {
-            "type": [
-              "string",
-              "null"
-            ],
-            "format": "date-time",
+            "type": "boolean",
             "default": null
           }
         },
@@ -41260,12 +41171,12 @@
           "latitude": "Lorem ipsum dolor sit amet",
           "longitude": "Lorem ipsum dolor sit amet",
           "address_type_id": 1,
-          "isPrimary": 1,
+          "isPrimary": false,
           "house_flat_number": "Lorem ipsum dolor sit amet",
-          "isEnabled": 1,
+          "isEnabled": false,
           "created_at": "2025-10-22T19:11:23.452Z",
           "updated_at": "2025-10-22T19:11:23.452Z",
-          "deleted_at": "2025-10-22T19:11:23.452Z"
+          "deleted_at": false
         }
       },
       "Userfeedback": {
@@ -41410,7 +41321,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "media_id": {
             "type": [
@@ -41488,7 +41400,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "date_of_birth": {
             "type": [
@@ -41517,16 +41430,11 @@
             "default": null
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "is_active": {
-            "type": "integer",
-            "format": "int32",
+            "type": "boolean",
             "default": "1"
           },
           "notification_pref": {
@@ -41535,11 +41443,7 @@
             "default": "1"
           },
           "is_verified": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "time_zone_id": {
@@ -41570,7 +41474,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "created_at": {
             "type": [
@@ -41589,11 +41494,7 @@
             "default": null
           },
           "deleted_at": {
-            "type": [
-              "string",
-              "null"
-            ],
-            "format": "date-time",
+            "type": "boolean",
             "default": null
           },
           "profile_color": {
@@ -41616,7 +41517,7 @@
               "integer",
               "null"
             ],
-            "format": "int32",
+            "format": "email",
             "default": "0"
           },
           "complete_profile": {
@@ -41637,7 +41538,7 @@
         ],
         "example": {
           "id": 1,
-          "user_uuid": "Lorem ipsum dolor sit amet",
+          "user_uuid": "00000000-0000-0000-0000-000000000000",
           "media_id": 1,
           "last_login": "2025-10-22T19:11:23.456Z",
           "reminder_process": 1,
@@ -41652,21 +41553,21 @@
           "gender": "Lorem ipsum dolor sit amet",
           "profile_pic_name": "John Doe",
           "profile_thumbnail": "Lorem ipsum dolor sit amet",
-          "isEnabled": 1,
-          "is_active": 1,
+          "isEnabled": false,
+          "is_active": false,
           "notification_pref": 1,
-          "is_verified": 1,
+          "is_verified": false,
           "time_zone_id": 1,
           "birthday_flag": 1,
           "birthday_flag_cron": 1,
           "flagUpdateDate": "2025-10-22T19:11:23.456Z",
-          "uuid": "Lorem ipsum dolor sit amet",
+          "uuid": "00000000-0000-0000-0000-000000000000",
           "created_at": "2025-10-22T19:11:23.456Z",
           "updated_at": "2025-10-22T19:11:23.456Z",
-          "deleted_at": "2025-10-22T19:11:23.456Z",
+          "deleted_at": false,
           "profile_color": "Lorem ipsum dolor sit amet",
           "sms_notification_pref": 1,
-          "email_notification_pref": 1,
+          "email_notification_pref": "user@example.com",
           "complete_profile": 1
         }
       },
@@ -41698,27 +41599,15 @@
             "default": null
           },
           "isPrimary": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "isPrivate": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "isEnabled": {
-            "type": [
-              "integer",
-              "null"
-            ],
-            "format": "int32",
+            "type": "boolean",
             "default": "0"
           },
           "flag": {
@@ -41755,11 +41644,7 @@
             "default": null
           },
           "deleted_at": {
-            "type": [
-              "string",
-              "null"
-            ],
-            "format": "date-time",
+            "type": "boolean",
             "default": null
           },
           "number_type": {
@@ -41781,14 +41666,14 @@
           "user_id": 1,
           "country_code": 1,
           "mobile_no": "Lorem ipsum dolor sit amet",
-          "isPrimary": 1,
-          "isPrivate": 1,
-          "isEnabled": 1,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isEnabled": false,
           "flag": 1,
           "auth_type": 1,
           "created_at": "2025-10-22T19:11:23.457Z",
           "updated_at": "2025-10-22T19:11:23.457Z",
-          "deleted_at": "2025-10-22T19:11:23.457Z",
+          "deleted_at": false,
           "number_type": 1
         }
       },
@@ -41823,7 +41708,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "merchant_info_id": {
             "type": [
@@ -41839,7 +41725,8 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "uuid"
           },
           "name": {
             "type": [
@@ -41918,11 +41805,7 @@
             "default": null
           },
           "deleted_at": {
-            "type": [
-              "string",
-              "null"
-            ],
-            "format": "date-time",
+            "type": "boolean",
             "default": null
           },
           "onboarding_complete": {
@@ -41968,21 +41851,24 @@
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "facebook_social_email": {
             "type": [
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "iphone_social_email": {
             "type": [
               "string",
               "null"
             ],
-            "default": null
+            "default": null,
+            "format": "email"
           },
           "google_social_name": {
             "type": [
@@ -42012,11 +41898,11 @@
         ],
         "example": {
           "id": 1,
-          "user_uuid": "Lorem ipsum dolor sit amet",
+          "user_uuid": "00000000-0000-0000-0000-000000000000",
           "info_id": 1,
-          "info_id_uuid": "Lorem ipsum dolor sit amet",
+          "info_id_uuid": "00000000-0000-0000-0000-000000000000",
           "merchant_info_id": 1,
-          "merchant_info_id_uuid": "Lorem ipsum dolor sit amet",
+          "merchant_info_id_uuid": "00000000-0000-0000-0000-000000000000",
           "name": "John Doe",
           "email": "user@example.com",
           "password": "Lorem ipsum dolor sit amet",
@@ -42027,8 +41913,8 @@
           "remember_token": "Lorem ipsum dolor sit amet",
           "created_at": "2025-10-22T19:11:23.459Z",
           "updated_at": "2025-10-22T19:11:23.459Z",
-          "deleted_at": "2025-10-22T19:11:23.459Z",
-          "onboarding_complete": 1,
+          "deleted_at": false,
+          "onboarding_complete": false,
           "auth_mode": 1,
           "sync_contacts": "Lorem ipsum dolor sit amet",
           "google_token": "Lorem ipsum dolor sit amet",
