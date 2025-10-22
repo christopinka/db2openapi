@@ -12124,7 +12124,7 @@
             },
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"id\": 1,\n  \"nick_name\": \"John Doe\",\n  \"reffered_id\": 1,\n  \"friends_id\": 1,\n  \"birthday_flag_cron\": 1,\n  \"isEnabled\": false,\n  \"created_at\": \"2025-10-22T19:11:23.439Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.439Z\",\n  \"is_favourite\": false,\n  \"is_block\": false\n}",
+              "raw": "{\n  \"id\": 1,\n  \"nick_name\": \"John Doe\",\n  \"reffered_id\": 1,\n  \"friends_id\": 1,\n  \"birthday_flag_cron\": false,\n  \"isEnabled\": false,\n  \"created_at\": \"2025-10-22T19:11:23.439Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.439Z\",\n  \"is_favourite\": false,\n  \"is_block\": false\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -12188,7 +12188,7 @@
             },
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"id\": 1,\n  \"nick_name\": \"John Doe\",\n  \"reffered_id\": 1,\n  \"friends_id\": 1,\n  \"birthday_flag_cron\": 1,\n  \"isEnabled\": false,\n  \"created_at\": \"2025-10-22T19:11:23.439Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.439Z\",\n  \"is_favourite\": false,\n  \"is_block\": false\n}",
+              "raw": "{\n  \"id\": 1,\n  \"nick_name\": \"John Doe\",\n  \"reffered_id\": 1,\n  \"friends_id\": 1,\n  \"birthday_flag_cron\": false,\n  \"isEnabled\": false,\n  \"created_at\": \"2025-10-22T19:11:23.439Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.439Z\",\n  \"is_favourite\": false,\n  \"is_block\": false\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -14359,7 +14359,7 @@
             },
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"id\": 1,\n  \"user_uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"media_id\": 1,\n  \"last_login\": \"2025-10-22T19:11:23.456Z\",\n  \"reminder_process\": 1,\n  \"reminder_count\": 1,\n  \"user_id\": 1,\n  \"dust_id\": \"Lorem ipsum dolor sit amet\",\n  \"first_name\": \"John Doe\",\n  \"middle_name\": \"John Doe\",\n  \"last_name\": \"John Doe\",\n  \"email_id\": \"user@example.com\",\n  \"date_of_birth\": \"2025-10-22T19:11:23.456Z\",\n  \"gender\": \"Lorem ipsum dolor sit amet\",\n  \"profile_pic_name\": \"John Doe\",\n  \"profile_thumbnail\": \"Lorem ipsum dolor sit amet\",\n  \"isEnabled\": false,\n  \"is_active\": false,\n  \"notification_pref\": 1,\n  \"is_verified\": false,\n  \"time_zone_id\": 1,\n  \"birthday_flag\": 1,\n  \"birthday_flag_cron\": 1,\n  \"flagUpdateDate\": \"2025-10-22T19:11:23.456Z\",\n  \"uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"created_at\": \"2025-10-22T19:11:23.456Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.456Z\",\n  \"deleted_at\": false,\n  \"profile_color\": \"Lorem ipsum dolor sit amet\",\n  \"sms_notification_pref\": 1,\n  \"email_notification_pref\": \"user@example.com\",\n  \"complete_profile\": 1\n}",
+              "raw": "{\n  \"id\": 1,\n  \"user_uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"media_id\": 1,\n  \"last_login\": \"2025-10-22T19:11:23.456Z\",\n  \"reminder_process\": 1,\n  \"reminder_count\": 1,\n  \"user_id\": 1,\n  \"dust_id\": \"Lorem ipsum dolor sit amet\",\n  \"first_name\": \"John Doe\",\n  \"middle_name\": \"John Doe\",\n  \"last_name\": \"John Doe\",\n  \"email_id\": \"user@example.com\",\n  \"date_of_birth\": \"2025-10-22T19:11:23.456Z\",\n  \"gender\": \"Lorem ipsum dolor sit amet\",\n  \"profile_pic_name\": \"John Doe\",\n  \"profile_thumbnail\": \"Lorem ipsum dolor sit amet\",\n  \"isEnabled\": false,\n  \"is_active\": false,\n  \"notification_pref\": 1,\n  \"is_verified\": false,\n  \"time_zone_id\": 1,\n  \"birthday_flag\": false,\n  \"birthday_flag_cron\": false,\n  \"flagUpdateDate\": \"2025-10-22T19:11:23.456Z\",\n  \"uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"created_at\": \"2025-10-22T19:11:23.456Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.456Z\",\n  \"deleted_at\": false,\n  \"profile_color\": \"Lorem ipsum dolor sit amet\",\n  \"sms_notification_pref\": 1,\n  \"email_notification_pref\": \"user@example.com\",\n  \"complete_profile\": 1\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -14423,7 +14423,7 @@
             },
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"id\": 1,\n  \"user_uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"media_id\": 1,\n  \"last_login\": \"2025-10-22T19:11:23.456Z\",\n  \"reminder_process\": 1,\n  \"reminder_count\": 1,\n  \"user_id\": 1,\n  \"dust_id\": \"Lorem ipsum dolor sit amet\",\n  \"first_name\": \"John Doe\",\n  \"middle_name\": \"John Doe\",\n  \"last_name\": \"John Doe\",\n  \"email_id\": \"user@example.com\",\n  \"date_of_birth\": \"2025-10-22T19:11:23.456Z\",\n  \"gender\": \"Lorem ipsum dolor sit amet\",\n  \"profile_pic_name\": \"John Doe\",\n  \"profile_thumbnail\": \"Lorem ipsum dolor sit amet\",\n  \"isEnabled\": false,\n  \"is_active\": false,\n  \"notification_pref\": 1,\n  \"is_verified\": false,\n  \"time_zone_id\": 1,\n  \"birthday_flag\": 1,\n  \"birthday_flag_cron\": 1,\n  \"flagUpdateDate\": \"2025-10-22T19:11:23.456Z\",\n  \"uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"created_at\": \"2025-10-22T19:11:23.456Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.456Z\",\n  \"deleted_at\": false,\n  \"profile_color\": \"Lorem ipsum dolor sit amet\",\n  \"sms_notification_pref\": 1,\n  \"email_notification_pref\": \"user@example.com\",\n  \"complete_profile\": 1\n}",
+              "raw": "{\n  \"id\": 1,\n  \"user_uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"media_id\": 1,\n  \"last_login\": \"2025-10-22T19:11:23.456Z\",\n  \"reminder_process\": 1,\n  \"reminder_count\": 1,\n  \"user_id\": 1,\n  \"dust_id\": \"Lorem ipsum dolor sit amet\",\n  \"first_name\": \"John Doe\",\n  \"middle_name\": \"John Doe\",\n  \"last_name\": \"John Doe\",\n  \"email_id\": \"user@example.com\",\n  \"date_of_birth\": \"2025-10-22T19:11:23.456Z\",\n  \"gender\": \"Lorem ipsum dolor sit amet\",\n  \"profile_pic_name\": \"John Doe\",\n  \"profile_thumbnail\": \"Lorem ipsum dolor sit amet\",\n  \"isEnabled\": false,\n  \"is_active\": false,\n  \"notification_pref\": 1,\n  \"is_verified\": false,\n  \"time_zone_id\": 1,\n  \"birthday_flag\": false,\n  \"birthday_flag_cron\": false,\n  \"flagUpdateDate\": \"2025-10-22T19:11:23.456Z\",\n  \"uuid\": \"00000000-0000-0000-0000-000000000000\",\n  \"created_at\": \"2025-10-22T19:11:23.456Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.456Z\",\n  \"deleted_at\": false,\n  \"profile_color\": \"Lorem ipsum dolor sit amet\",\n  \"sms_notification_pref\": 1,\n  \"email_notification_pref\": \"user@example.com\",\n  \"complete_profile\": 1\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -14508,7 +14508,7 @@
             },
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"id\": 1,\n  \"user_id\": 1,\n  \"country_code\": 1,\n  \"mobile_no\": \"Lorem ipsum dolor sit amet\",\n  \"isPrimary\": false,\n  \"isPrivate\": false,\n  \"isEnabled\": false,\n  \"flag\": 1,\n  \"auth_type\": 1,\n  \"created_at\": \"2025-10-22T19:11:23.457Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.457Z\",\n  \"deleted_at\": false,\n  \"number_type\": 1\n}",
+              "raw": "{\n  \"id\": 1,\n  \"user_id\": 1,\n  \"country_code\": 1,\n  \"mobile_no\": \"Lorem ipsum dolor sit amet\",\n  \"isPrimary\": false,\n  \"isPrivate\": false,\n  \"isEnabled\": false,\n  \"flag\": false,\n  \"auth_type\": 1,\n  \"created_at\": \"2025-10-22T19:11:23.457Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.457Z\",\n  \"deleted_at\": false,\n  \"number_type\": 1\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -14572,7 +14572,7 @@
             },
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"id\": 1,\n  \"user_id\": 1,\n  \"country_code\": 1,\n  \"mobile_no\": \"Lorem ipsum dolor sit amet\",\n  \"isPrimary\": false,\n  \"isPrivate\": false,\n  \"isEnabled\": false,\n  \"flag\": 1,\n  \"auth_type\": 1,\n  \"created_at\": \"2025-10-22T19:11:23.457Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.457Z\",\n  \"deleted_at\": false,\n  \"number_type\": 1\n}",
+              "raw": "{\n  \"id\": 1,\n  \"user_id\": 1,\n  \"country_code\": 1,\n  \"mobile_no\": \"Lorem ipsum dolor sit amet\",\n  \"isPrimary\": false,\n  \"isPrivate\": false,\n  \"isEnabled\": false,\n  \"flag\": false,\n  \"auth_type\": 1,\n  \"created_at\": \"2025-10-22T19:11:23.457Z\",\n  \"updated_at\": \"2025-10-22T19:11:23.457Z\",\n  \"deleted_at\": false,\n  \"number_type\": 1\n}",
               "options": {
                 "raw": {
                   "language": "json"

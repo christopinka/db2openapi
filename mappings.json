@@ -217,6 +217,9 @@
       },
       "is_block": {
         "type": "boolean"
+      },
+      "birthday_flag_cron": {
+        "type": "boolean"
       }
     },
     "Tblgocardlesscustomer": {
@@ -274,6 +277,12 @@
       },
       "email_notification_pref": {
         "format": "email"
+      },
+      "birthday_flag": {
+        "type": "boolean"
+      },
+      "birthday_flag_cron": {
+        "type": "boolean"
       }
     },
     "Usermobilenumbers": {
@@ -287,6 +296,9 @@
         "type": "boolean"
       },
       "deleted_at": {
+        "type": "boolean"
+      },
+      "flag": {
         "type": "boolean"
       }
     },
