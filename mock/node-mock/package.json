@@ -1,0 +1,10 @@
+{
+  "name": "fb-mock-node",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2",
+    "openapi-backend": "^6.3.0",
+    "body-parser": "^1.20.2"
+  }
+}
